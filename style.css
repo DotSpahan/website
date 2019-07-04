@@ -109,8 +109,8 @@ body {
 }
 .banner {
   height: 280px;
-  background-image: url(images/Eaglettes-small.jpg);
-  /* backgroound-size: cover; */
+  background-image: url (https://github.com/DotSpahan/website/tree/master/images/Cali-bighorn-Small.jpg);
+  /* background-size: cover; */
   max-width: 850px;
   background-position: center;
 }
