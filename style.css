@@ -109,7 +109,7 @@ body {
 }
 .banner {
   height: 280px;
-  background-image: url (website/images/Cali-bighorn-Small.jpg);
+  background-image: url (images/bighorn-distant-Small.jpg);
   background-size: cover;
   max-width: 850px;
   background-position: center;
