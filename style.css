@@ -1,9 +1,9 @@
 /* Website Styles */
 
 * {
-  font-size: 100%;
+  font-size: 26px;
   /* margin: 2; */
-  line-height: 1;
+  line-height: 2;
   /* bo
   border: 1px solid red; */
   box-sizing: border-box;
@@ -109,8 +109,21 @@ body {
 }
 .banner {
   height: 280px;
-  background-image: url (images/bighorn-distant-Small.jpg);
+  background-image: url(images/eagle2-small.jpg);
   background-size: cover;
   max-width: 850px;
   background-position: center;
 }
+h1 {
+  background-color: salmon;
+  color: Maroon;
+  font-family: 'Dancing Script', cursive;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+}
+img {
+  border: 5px outset plum;
+  box-shadow: 0 0 7px 4px magenta;
